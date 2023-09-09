@@ -1,0 +1,4 @@
+hello this is a new mars file
+it doesn't have the class content
+hopefully that will be ok
+thank you
